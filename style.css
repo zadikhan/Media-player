@@ -121,6 +121,9 @@ border-radius: 40px;
     transition: opacity 0.5s ease-in;
 
 }
+.bottom i{
+    color:red;
+}
 @media only screen and (max-width: 500px) {
     .songItem{
         width: 95%;
