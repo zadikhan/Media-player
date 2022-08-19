@@ -122,7 +122,7 @@ border-radius: 40px;
 
 }
 .bottom i{
-    color:red;
+    color: red;
 }
 @media only screen and (max-width: 500px) {
     .songItem{
