@@ -11,7 +11,7 @@ let songs= [
     {songName:"Pasoori", filePath:"songs/2.mp3", coverPath:"images/2.png"},
     {songName:"Khaab", filePath:"songs/3.mp3", coverPath:"images/3.png"},
     {songName:"Yaaro Sab Dua Karo", filePath:"songs/4.mp3", coverPath:"images/4.png"},
-    {songName:"shiddat", filePath:"songs/5.mp3", coverPath:"covers/5.png"},
+    {songName:"shiddat", filePath:"songs/5.mp3", coverPath:"images/5.png"},
     {songName:"photo-luka chupi", filePath:"songs/6.mp3", coverPath:"images/6.png"},
     {songName:"Duniya--luka chupi", filePath:"songs/7.mp3", coverPath:"images/7.png"},
     {songName:"Bekhayali--", filePath:"songs/8.mp3", coverPath:"images/8.png"},
